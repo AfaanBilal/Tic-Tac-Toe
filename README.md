@@ -5,7 +5,7 @@ Author: **Afaan Bilal ([@AfaanBilal](https://github.com/AfaanBilal))**
 Author URL: **[Google+](https://google.com/+AfaanBilal)**
 
 ##### Project Page: [afaan.cu.cc/Tic-Tac-Toe](http://afaan.cu.cc/Tic-Tac-Toe)
-##### Download: [Executable, V1.0.0](http://afaan.cu.cc/Tic-Tac-Toe/TicTacToe.zip)
+##### Download: [Executable, V1.0.0](http://afaan.cu.cc/Tic-Tac-Toe/TicTacToe-1.0.0-Executable.zip.zip)
 
 ## Introduction
 **Tic Tac Toe** is a small C# .NET Windows desktop app to play the simple game of *Tic Tac Toe*, 
